@@ -30,7 +30,7 @@ Els arxius són dels següents tipus:
 - .plux files for confocal images
 - .spm files for AFM images
       
-Les dades estaran classificades per mostres. Cada carpeta contindrà subcarpetes amb les dades dels tipus de caracterització. Dintre d'aquestes hi haurà una carpeta amb la data corresponent. Per a tenir regfistre de les dades, hi haurà un full de àlcul amb anotacions de les mostres: nom, data, responsable, fabricació i les diferents caracteritzacions.
+Les dades estaran classificades per mostres. Cada carpeta contindrà subcarpetes amb les dades dels tipus de caracterització. Dintre d'aquestes hi haurà una carpeta amb la data corresponent. Per a tenir regfistre de les dades, hi haurà un full de càlcul amb anotacions de les mostres: nom, data, responsable, fabricació i les diferents caracteritzacions.
 
 ```
 Grafenos/
